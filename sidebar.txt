@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wub:home|Door43 (wub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wub|d43-wub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wub/archive/master.zip|d43-wub.zip]]
+
+**Recent Changes**
+{{changes>ns = wub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wub|Ethnologue data]]
+
